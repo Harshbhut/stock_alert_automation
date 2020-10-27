@@ -24,7 +24,7 @@ def get_data():
                 final_data.append(data)
                 
     res = list(filter(None,final_data))
-    print(" Data Downloaded Succesfully...Going Ahead Now...\n")
+    print("Data Downloaded Succesfully...Going Ahead Now...\n")
     return res
 
 
